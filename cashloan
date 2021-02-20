@@ -1,22 +1,22 @@
 {
    "Ads":[
       {
-         "app_id":"ca-app-pub-3940256099942544~3347511713",
-         "banner_id":"ca-app-pub-3940256099942544/6300978111",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
-         "native_id":"ca-app-pub-3940256099942544/2247696110",
+         "app_id":"ca-app-pub-9100722402326838~3350244962",
+         "banner_id":"ca-app-pub-9100722402326838/8461889275",
+         "interstitial_id":"ca-app-pub-9100722402326838/9723548797",
+         "native_id":"ca-app-pub-9100722402326838/1513337543",
          "status":"true",
          "splash_ads":"false"
       },
       {
-         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "interstitial_id1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "interstitial_id2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "app_id":"421785899048865",
+         "banner_id":"2775948516003625_2775952552669888",
+         "interstitial_id":"2775948516003625_2775952076003269",
+          "interstitial_id1":"2775948516003625_2775952076003269",
+          "interstitial_id2":"2775948516003625_2775952076003269",
+         "native_id":"2775948516003625_2775949219336888",
+         "native_banner_id":"2775948516003625_2775951046003372",
+         "rectangle_banner_id":"2775948516003625_2775953006003176",
          "status":"true",
          "splash_ads":"false"
       }
